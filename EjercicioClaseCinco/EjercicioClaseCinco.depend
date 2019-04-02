@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554173232 source:c:\users\gonzalez\desktop\programacion\ejerciciosclasecinco\ejercicioclasecinco\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1554173232 c:\users\gonzalez\desktop\programacion\ejerciciosclasecinco\ejercicioclasecinco\funciones.h
+
+1554173232 source:c:\users\gonzalez\desktop\programacion\ejerciciosclasecinco\ejercicioclasecinco\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
